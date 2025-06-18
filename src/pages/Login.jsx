@@ -32,6 +32,7 @@ function Login() {
                 type="email"
                 placeholder="Enter email address"
                 ref={emailRef}
+                required
                 style={{
                   width: '100%',
                   padding: '12px',
@@ -52,6 +53,7 @@ function Login() {
                 type="password"
                 placeholder="Enter password"
                 ref={passwordRef}
+                required
                 style={{
                   width: '100%',
                   padding: '12px',
