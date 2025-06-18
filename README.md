@@ -22,7 +22,7 @@ A modern React + Vite + Tailwind CSS app for account creation, login, and profil
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/popx-app.git
+git clone https://github.com/KrishPatel1010/popx-app.git
 cd popx-app
 npm install
 ```
